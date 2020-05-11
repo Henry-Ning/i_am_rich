@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://pbs.twimg.com/profile_images/875749462957670400/T0lwiBK8_400x400.jpg'
+            image: NetworkImage("""https://pbs.twimg.com/profile_images/875749462957670400/T0lwiBK8_400x400.jpg"""
             ),
           ),
         ),
